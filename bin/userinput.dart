@@ -41,5 +41,5 @@ void main(){
   print("my email_id is $email");
   print("I have $cgpa in my graduation");
   print("Iam studied in $college");
-  print("now Iam pursuing $course in Luminar");
+  print("now I'm pursuing $course in Luminar");
 }
