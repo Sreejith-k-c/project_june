@@ -40,6 +40,6 @@ void main(){
   print("my phno is $phno");
   print("my email_id is $email");
   print("I have $cgpa in my graduation");
-  print("I studied in $college");
+  print("Iam studied in $college");
   print("now Iam pursuing $course in Luminar");
 }
