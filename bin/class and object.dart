@@ -17,7 +17,7 @@ class students {
   int? phno;
 
 
-static String course = "flutter";
+static String course = "Flutter";
 }
 void main(){
   /// object creation ->syntax:ClassName objectName=ClassName();
