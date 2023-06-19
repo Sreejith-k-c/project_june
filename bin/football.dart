@@ -11,7 +11,7 @@ class players {
     print("Name=${pl1.name="Messi"}");
     print("Age=${pl1.age=36}");
     print("Nation=${pl1.nation="Argentina"}");
-    print("Club=${pl1.club="Inter Miami"}");
+    print("Club=${pl1.club="Inter miami"}");
 
     print("--------------------------------");
 
